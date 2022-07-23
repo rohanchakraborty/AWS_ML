@@ -1,7 +1,5 @@
 # Build & Deploy XGBoost Machine Learning Model with Sagemaker and integrating Lambda and API gateway!
-### Using AWS API-Gateway, AWS Lambda with AWS Sagemaker
-
-# Services used:
+[Tags] Using AWS API-Gateway, AWS Lambda with AWS Sagemaker
 
 ## AWS Sagemaker
 
